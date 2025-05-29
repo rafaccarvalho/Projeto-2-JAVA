@@ -1,3 +1,6 @@
+//Julia D'Agrela Araujo RA:10426655
+//Rafael Carvalho RA:10437533
+
 
 public class Cliente {
     private String nomeRepresentante;

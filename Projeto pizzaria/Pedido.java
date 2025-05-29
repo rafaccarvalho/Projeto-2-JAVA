@@ -1,3 +1,6 @@
+//Julia D'Agrela Araujo RA:10426655
+//Rafael Carvalho RA:10437533
+
 
 public class Pedido {
     private String descricao;
@@ -17,5 +20,8 @@ public class Pedido {
     public void exibirPedido() {
         System.out.println(quantidade + "x " + descricao + " - R$ " + valorUnitario + " cada | Total: R$ " + calcularTotal());
     }
+    
+  
+
 
 }
